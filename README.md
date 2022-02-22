@@ -54,7 +54,7 @@ A calculadora conta com as quatro (4) operações básicas de matemática, sendo
 
 ### Pré-requisitos
 
-Antes de começar, é preciso que você tenha instalado em sua máquina o [Node.js](https://nodejs.org/en/) e um editor de código de sua preferência, como o [VSCode](https://code.visualstudio.com/) por exemplo.
+Antes de começar, é preciso que você tenha instalado em sua máquina o [Node.js](https://nodejs.org/en/) (recomendo a versão LTS) e um editor de código de sua preferência, como o [VSCode](https://code.visualstudio.com/) por exemplo.
 
 #### Rodando a aplicação web
 
